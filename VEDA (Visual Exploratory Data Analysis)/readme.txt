@@ -1,6 +1,9 @@
-VEDA (Visual Exploratory Data Analysis)
+VEDA (Visual Exploratory Data Analysis) toolkit
 
 User friendly implementation of various members of the visual assessment of clustering tendency (VAT) family of algorithms for exploratory data analysis. Run the demo on syntetic data or your own data.
+
+The "Example datsets" folder contains various datasets which can be used as an input to the software. Use small datasets such as "iris.csv", "iris_2_features.csv", "iris_3_features.csv", "iris_no_label.csv", and "wine.csv" for small static data (VAT/iVAT) and streaming data (incVAT/inciVAT/decVAT/deciVAT). Use "dist_matrix_ex.csv", "dist_matrix_wrong_ex_1.csv", "dist_matrix_wrong_ex_2.csv", and "dist_matrix_wrong_ex_3.csv" for distance (dissimilarity) matrix data. Use big datasets such as "adult.csv", "breast-cancer-wisconsin.csv", "car.csv", "winequality-red.csv", and "winequality-white.csv" for big static data (clusiVAT)
+
 
 VEDA Executable
 
@@ -45,7 +48,3 @@ https://www.mathworks.com/help and select MATLAB Compiler >
 Getting Started > About Application Deployment >
 Deployment Product Terms in the MathWorks Documentation
 Center.
-
-
-
-
