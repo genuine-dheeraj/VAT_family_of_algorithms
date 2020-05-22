@@ -9,4 +9,4 @@ D. Kumar and J. C. Bezdek, "Visual Approaches for Exploratory Data Analysis: A S
 
 To experiment futher, go to "VAT-iVAT" for small data, "clusiVAT" for large volume data having large number of datapoints, and "inc-VAT_inc-iVAT_dec-VAT_dec-iVAT" for streaming data.
 
-Please send all your querries and feedback to Dheeraj Kumar at genuine.dheeraj@gmail.com
+Please send all your queries and feedback to Dheeraj Kumar at genuine.dheeraj@gmail.com
